@@ -32,4 +32,5 @@ analyze population distribution and support emergency blood donor planning.
 - GitHub
 
 ## License
-Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)
+Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0) 
+ 
