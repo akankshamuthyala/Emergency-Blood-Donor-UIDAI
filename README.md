@@ -27,10 +27,6 @@ analyze population distribution and support emergency blood donor planning.
 
 ## Tools Used
 - Python
-- Pandas
 - VS Code
 - GitHub
-
-## License
-Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0) 
  
